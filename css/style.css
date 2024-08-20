@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#home {
+    background-color: #fff;
+    text-align: center;
+}
+
+#research, #slideshows {
+    background-color: #e9ecef;
+    padding: 50px 0;
+}
+
+.slides {
+    width: 100%;
+    text-align: center;
+}
+
+.slides iframe {
+    width: 100%;
+    max-width: 100%;
+    height: 500px;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.icon {
+    margin: 0 10px;
+}
+
+#research, #slideshows {
+    text-align: center;
+}
